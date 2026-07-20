@@ -1,0 +1,6 @@
+﻿# Demo - no backend files
+*.php
+*.sql
+node_modules/
+.DS_Store
+Thumbs.db
