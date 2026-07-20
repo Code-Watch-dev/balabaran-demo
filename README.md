@@ -1,4 +1,4 @@
-﻿# بالابران — دموی نمایشی
+# بالابران — دموی نمایشی
 
 This is a **read-only frontend demo** of the Balabaran elevator website.
 
