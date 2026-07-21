@@ -6,4 +6,4 @@ This is a **read-only frontend demo** of the Balabaran elevator website.
 - All data is static JSON
 - For showcase purposes only
 
-🔗 **Live demo:** https://code-watch-dev.github.io/balabaran-demo/
+🌐 **Live demo:** https://code-watch-dev.github.io/balabaran-demo/
